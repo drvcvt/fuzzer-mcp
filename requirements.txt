@@ -1,0 +1,4 @@
+fastmcp>=0.4.0
+comtypes>=1.4.0
+pywin32>=306
+impacket>=0.11.0
